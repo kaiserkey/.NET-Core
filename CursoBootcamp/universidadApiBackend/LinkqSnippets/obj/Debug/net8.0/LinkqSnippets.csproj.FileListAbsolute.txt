@@ -1,0 +1,11 @@
+C:\Users\DanielSan\Codigo\.NET API\CursoBootcamp\universidadApiBackend\LinkqSnippets\bin\Debug\net8.0\LinkqSnippets.deps.json
+C:\Users\DanielSan\Codigo\.NET API\CursoBootcamp\universidadApiBackend\LinkqSnippets\bin\Debug\net8.0\LinkqSnippets.dll
+C:\Users\DanielSan\Codigo\.NET API\CursoBootcamp\universidadApiBackend\LinkqSnippets\bin\Debug\net8.0\LinkqSnippets.pdb
+C:\Users\DanielSan\Codigo\.NET API\CursoBootcamp\universidadApiBackend\LinkqSnippets\obj\Debug\net8.0\LinkqSnippets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielSan\Codigo\.NET API\CursoBootcamp\universidadApiBackend\LinkqSnippets\obj\Debug\net8.0\LinkqSnippets.AssemblyInfoInputs.cache
+C:\Users\DanielSan\Codigo\.NET API\CursoBootcamp\universidadApiBackend\LinkqSnippets\obj\Debug\net8.0\LinkqSnippets.AssemblyInfo.cs
+C:\Users\DanielSan\Codigo\.NET API\CursoBootcamp\universidadApiBackend\LinkqSnippets\obj\Debug\net8.0\LinkqSnippets.csproj.CoreCompileInputs.cache
+C:\Users\DanielSan\Codigo\.NET API\CursoBootcamp\universidadApiBackend\LinkqSnippets\obj\Debug\net8.0\LinkqSnippets.dll
+C:\Users\DanielSan\Codigo\.NET API\CursoBootcamp\universidadApiBackend\LinkqSnippets\obj\Debug\net8.0\refint\LinkqSnippets.dll
+C:\Users\DanielSan\Codigo\.NET API\CursoBootcamp\universidadApiBackend\LinkqSnippets\obj\Debug\net8.0\LinkqSnippets.pdb
+C:\Users\DanielSan\Codigo\.NET API\CursoBootcamp\universidadApiBackend\LinkqSnippets\obj\Debug\net8.0\ref\LinkqSnippets.dll

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DanielSan\\Codigo\\.NET API\\CursoBootcamp\\universidadApiBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71FCBC5A-19F8-41AA-ABAF-2B13B2021E15}|LinkqSnippets\\LinkqSnippets.csproj|c:\\users\\danielsan\\codigo\\.net api\\cursobootcamp\\universidadapibackend\\linkqsnippets\\snippets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71FCBC5A-19F8-41AA-ABAF-2B13B2021E15}|LinkqSnippets\\LinkqSnippets.csproj|solutionrelative:linkqsnippets\\snippets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71FCBC5A-19F8-41AA-ABAF-2B13B2021E15}|LinkqSnippets\\LinkqSnippets.csproj|c:\\users\\danielsan\\codigo\\.net api\\cursobootcamp\\universidadapibackend\\linkqsnippets\\enterprise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71FCBC5A-19F8-41AA-ABAF-2B13B2021E15}|LinkqSnippets\\LinkqSnippets.csproj|solutionrelative:linkqsnippets\\enterprise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71FCBC5A-19F8-41AA-ABAF-2B13B2021E15}|LinkqSnippets\\LinkqSnippets.csproj|c:\\users\\danielsan\\codigo\\.net api\\cursobootcamp\\universidadapibackend\\linkqsnippets\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71FCBC5A-19F8-41AA-ABAF-2B13B2021E15}|LinkqSnippets\\LinkqSnippets.csproj|solutionrelative:linkqsnippets\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B07D66-63DE-4C20-A833-A486A9F7F7C3}|universidadApiBackend\\universidadApiBackend.csproj|c:\\users\\danielsan\\codigo\\.net api\\cursobootcamp\\universidadapibackend\\universidadapibackend\\dataaccess\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B07D66-63DE-4C20-A833-A486A9F7F7C3}|universidadApiBackend\\universidadApiBackend.csproj|solutionrelative:universidadapibackend\\dataaccess\\universitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B07D66-63DE-4C20-A833-A486A9F7F7C3}|universidadApiBackend\\universidadApiBackend.csproj|c:\\users\\danielsan\\codigo\\.net api\\cursobootcamp\\universidadapibackend\\universidadapibackend\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B07D66-63DE-4C20-A833-A486A9F7F7C3}|universidadApiBackend\\universidadApiBackend.csproj|solutionrelative:universidadapibackend\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B07D66-63DE-4C20-A833-A486A9F7F7C3}|universidadApiBackend\\universidadApiBackend.csproj|c:\\users\\danielsan\\codigo\\.net api\\cursobootcamp\\universidadapibackend\\universidadapibackend\\models\\chapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B07D66-63DE-4C20-A833-A486A9F7F7C3}|universidadApiBackend\\universidadApiBackend.csproj|solutionrelative:universidadapibackend\\models\\chapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B07D66-63DE-4C20-A833-A486A9F7F7C3}|universidadApiBackend\\universidadApiBackend.csproj|c:\\users\\danielsan\\codigo\\.net api\\cursobootcamp\\universidadapibackend\\universidadapibackend\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B07D66-63DE-4C20-A833-A486A9F7F7C3}|universidadApiBackend\\universidadApiBackend.csproj|solutionrelative:universidadapibackend\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B07D66-63DE-4C20-A833-A486A9F7F7C3}|universidadApiBackend\\universidadApiBackend.csproj|c:\\users\\danielsan\\codigo\\.net api\\cursobootcamp\\universidadapibackend\\universidadapibackend\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B07D66-63DE-4C20-A833-A486A9F7F7C3}|universidadApiBackend\\universidadApiBackend.csproj|solutionrelative:universidadapibackend\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B07D66-63DE-4C20-A833-A486A9F7F7C3}|universidadApiBackend\\universidadApiBackend.csproj|c:\\users\\danielsan\\codigo\\.net api\\cursobootcamp\\universidadapibackend\\universidadapibackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4B07D66-63DE-4C20-A833-A486A9F7F7C3}|universidadApiBackend\\universidadApiBackend.csproj|solutionrelative:universidadapibackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enterprise.cs",
+              "DocumentMoniker": "C:\\Users\\DanielSan\\Codigo\\.NET API\\CursoBootcamp\\universidadApiBackend\\LinkqSnippets\\Enterprise.cs",
+              "RelativeDocumentMoniker": "LinkqSnippets\\Enterprise.cs",
+              "ToolTip": "C:\\Users\\DanielSan\\Codigo\\.NET API\\CursoBootcamp\\universidadApiBackend\\LinkqSnippets\\Enterprise.cs",
+              "RelativeToolTip": "LinkqSnippets\\Enterprise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:55:00.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\DanielSan\\Codigo\\.NET API\\CursoBootcamp\\universidadApiBackend\\LinkqSnippets\\Employee.cs",
+              "RelativeDocumentMoniker": "LinkqSnippets\\Employee.cs",
+              "ToolTip": "C:\\Users\\DanielSan\\Codigo\\.NET API\\CursoBootcamp\\universidadApiBackend\\LinkqSnippets\\Employee.cs",
+              "RelativeToolTip": "LinkqSnippets\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:54:37.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Snippets.cs",
+              "DocumentMoniker": "C:\\Users\\DanielSan\\Codigo\\.NET API\\CursoBootcamp\\universidadApiBackend\\LinkqSnippets\\Snippets.cs",
+              "RelativeDocumentMoniker": "LinkqSnippets\\Snippets.cs",
+              "ToolTip": "C:\\Users\\DanielSan\\Codigo\\.NET API\\CursoBootcamp\\universidadApiBackend\\LinkqSnippets\\Snippets.cs",
+              "RelativeToolTip": "LinkqSnippets\\Snippets.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAADwv2YAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:52:49.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Chapter.cs",
+              "DocumentMoniker": "C:\\Users\\DanielSan\\Codigo\\.NET API\\CursoBootcamp\\universidadApiBackend\\universidadApiBackend\\Models\\Chapter.cs",
+              "RelativeDocumentMoniker": "universidadApiBackend\\Models\\Chapter.cs",
+              "ToolTip": "C:\\Users\\DanielSan\\Codigo\\.NET API\\CursoBootcamp\\universidadApiBackend\\universidadApiBackend\\Models\\Chapter.cs",
+              "RelativeToolTip": "universidadApiBackend\\Models\\Chapter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T23:05:57.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\DanielSan\\Codigo\\.NET API\\CursoBootcamp\\universidadApiBackend\\universidadApiBackend\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "universidadApiBackend\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\DanielSan\\Codigo\\.NET API\\CursoBootcamp\\universidadApiBackend\\universidadApiBackend\\Models\\Student.cs",
+              "RelativeToolTip": "universidadApiBackend\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:53:55.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UniversityContext.cs",
+              "DocumentMoniker": "C:\\Users\\DanielSan\\Codigo\\.NET API\\CursoBootcamp\\universidadApiBackend\\universidadApiBackend\\DataAccess\\UniversityContext.cs",
+              "RelativeDocumentMoniker": "universidadApiBackend\\DataAccess\\UniversityContext.cs",
+              "ToolTip": "C:\\Users\\DanielSan\\Codigo\\.NET API\\CursoBootcamp\\universidadApiBackend\\universidadApiBackend\\DataAccess\\UniversityContext.cs",
+              "RelativeToolTip": "universidadApiBackend\\DataAccess\\UniversityContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:39:58.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\DanielSan\\Codigo\\.NET API\\CursoBootcamp\\universidadApiBackend\\universidadApiBackend\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "universidadApiBackend\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\DanielSan\\Codigo\\.NET API\\CursoBootcamp\\universidadApiBackend\\universidadApiBackend\\Models\\Course.cs",
+              "RelativeToolTip": "universidadApiBackend\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:56:49.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\DanielSan\\Codigo\\.NET API\\CursoBootcamp\\universidadApiBackend\\universidadApiBackend\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "universidadApiBackend\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\DanielSan\\Codigo\\.NET API\\CursoBootcamp\\universidadApiBackend\\universidadApiBackend\\Models\\Category.cs",
+              "RelativeToolTip": "universidadApiBackend\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:02:22.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DanielSan\\Codigo\\.NET API\\CursoBootcamp\\universidadApiBackend\\universidadApiBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "universidadApiBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\DanielSan\\Codigo\\.NET API\\CursoBootcamp\\universidadApiBackend\\universidadApiBackend\\appsettings.json",
+              "RelativeToolTip": "universidadApiBackend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T14:23:38.952Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
