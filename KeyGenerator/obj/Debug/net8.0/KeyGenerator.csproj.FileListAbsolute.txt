@@ -1,0 +1,15 @@
+C:\Users\daniel.gonzalez\Codigo\.NET Core\KeyGenerator\bin\Debug\net8.0\KeyGenerator.exe
+C:\Users\daniel.gonzalez\Codigo\.NET Core\KeyGenerator\bin\Debug\net8.0\KeyGenerator.deps.json
+C:\Users\daniel.gonzalez\Codigo\.NET Core\KeyGenerator\bin\Debug\net8.0\KeyGenerator.runtimeconfig.json
+C:\Users\daniel.gonzalez\Codigo\.NET Core\KeyGenerator\bin\Debug\net8.0\KeyGenerator.dll
+C:\Users\daniel.gonzalez\Codigo\.NET Core\KeyGenerator\bin\Debug\net8.0\KeyGenerator.pdb
+C:\Users\daniel.gonzalez\Codigo\.NET Core\KeyGenerator\obj\Debug\net8.0\KeyGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.gonzalez\Codigo\.NET Core\KeyGenerator\obj\Debug\net8.0\KeyGenerator.AssemblyInfoInputs.cache
+C:\Users\daniel.gonzalez\Codigo\.NET Core\KeyGenerator\obj\Debug\net8.0\KeyGenerator.AssemblyInfo.cs
+C:\Users\daniel.gonzalez\Codigo\.NET Core\KeyGenerator\obj\Debug\net8.0\KeyGenerator.csproj.CoreCompileInputs.cache
+C:\Users\daniel.gonzalez\Codigo\.NET Core\KeyGenerator\obj\Debug\net8.0\KeyGenerator.sourcelink.json
+C:\Users\daniel.gonzalez\Codigo\.NET Core\KeyGenerator\obj\Debug\net8.0\KeyGenerator.dll
+C:\Users\daniel.gonzalez\Codigo\.NET Core\KeyGenerator\obj\Debug\net8.0\refint\KeyGenerator.dll
+C:\Users\daniel.gonzalez\Codigo\.NET Core\KeyGenerator\obj\Debug\net8.0\KeyGenerator.pdb
+C:\Users\daniel.gonzalez\Codigo\.NET Core\KeyGenerator\obj\Debug\net8.0\KeyGenerator.genruntimeconfig.cache
+C:\Users\daniel.gonzalez\Codigo\.NET Core\KeyGenerator\obj\Debug\net8.0\ref\KeyGenerator.dll
