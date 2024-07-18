@@ -1,0 +1,13 @@
+C:\Users\daniel.gonzalez\Codigo\.NET Core\NetCLI\MyLib\bin\Debug\net8.0\MyLib.deps.json
+C:\Users\daniel.gonzalez\Codigo\.NET Core\NetCLI\MyLib\bin\Debug\net8.0\MyLib.dll
+C:\Users\daniel.gonzalez\Codigo\.NET Core\NetCLI\MyLib\bin\Debug\net8.0\MyLib.pdb
+C:\Users\daniel.gonzalez\Codigo\.NET Core\NetCLI\MyLib\obj\Debug\net8.0\MyLib.csproj.AssemblyReference.cache
+C:\Users\daniel.gonzalez\Codigo\.NET Core\NetCLI\MyLib\obj\Debug\net8.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.gonzalez\Codigo\.NET Core\NetCLI\MyLib\obj\Debug\net8.0\MyLib.AssemblyInfoInputs.cache
+C:\Users\daniel.gonzalez\Codigo\.NET Core\NetCLI\MyLib\obj\Debug\net8.0\MyLib.AssemblyInfo.cs
+C:\Users\daniel.gonzalez\Codigo\.NET Core\NetCLI\MyLib\obj\Debug\net8.0\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\daniel.gonzalez\Codigo\.NET Core\NetCLI\MyLib\obj\Debug\net8.0\MyLib.sourcelink.json
+C:\Users\daniel.gonzalez\Codigo\.NET Core\NetCLI\MyLib\obj\Debug\net8.0\MyLib.dll
+C:\Users\daniel.gonzalez\Codigo\.NET Core\NetCLI\MyLib\obj\Debug\net8.0\refint\MyLib.dll
+C:\Users\daniel.gonzalez\Codigo\.NET Core\NetCLI\MyLib\obj\Debug\net8.0\MyLib.pdb
+C:\Users\daniel.gonzalez\Codigo\.NET Core\NetCLI\MyLib\obj\Debug\net8.0\ref\MyLib.dll

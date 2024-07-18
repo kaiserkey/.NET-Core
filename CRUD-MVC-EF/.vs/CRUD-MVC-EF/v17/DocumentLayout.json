@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{EE572869-D943-43A2-A46D-9B807A52FC08}|CRUD-MVC-EF.csproj|solutionrelative:controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EE572869-D943-43A2-A46D-9B807A52FC08}|CRUD-MVC-EF.csproj|c:\\users\\daniel.gonzalez\\codigo\\.net core\\crud-mvc-ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE572869-D943-43A2-A46D-9B807A52FC08}|CRUD-MVC-EF.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE572869-D943-43A2-A46D-9B807A52FC08}|CRUD-MVC-EF.csproj|c:\\users\\daniel.gonzalez\\codigo\\.net core\\crud-mvc-ef\\datos\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE572869-D943-43A2-A46D-9B807A52FC08}|CRUD-MVC-EF.csproj|solutionrelative:datos\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE572869-D943-43A2-A46D-9B807A52FC08}|CRUD-MVC-EF.csproj|c:\\users\\daniel.gonzalez\\codigo\\.net core\\crud-mvc-ef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE572869-D943-43A2-A46D-9B807A52FC08}|CRUD-MVC-EF.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EE572869-D943-43A2-A46D-9B807A52FC08}|CRUD-MVC-EF.csproj|c:\\users\\daniel.gonzalez\\codigo\\.net core\\crud-mvc-ef\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE572869-D943-43A2-A46D-9B807A52FC08}|CRUD-MVC-EF.csproj|solutionrelative:models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,15 +38,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\CRUD-MVC-EF\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\CRUD-MVC-EF\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T20:02:54.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\CRUD-MVC-EF\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\CRUD-MVC-EF\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T20:02:43.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\CRUD-MVC-EF\\Datos\\DBContext.cs",
+              "RelativeDocumentMoniker": "Datos\\DBContext.cs",
+              "ToolTip": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\CRUD-MVC-EF\\Datos\\DBContext.cs",
+              "RelativeToolTip": "Datos\\DBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T20:07:46.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Borrar.cshtml",
               "DocumentMoniker": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\CRUD-MVC-EF\\Views\\Inicio\\Borrar.cshtml",
               "RelativeDocumentMoniker": "Views\\Inicio\\Borrar.cshtml",
@@ -42,12 +95,11 @@
               "RelativeToolTip": "Views\\Inicio\\Borrar.cshtml",
               "ViewState": "AQIAAA0AAAAAAAAAAAAAABQAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T01:08:48.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T01:08:48.783Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Editar.cshtml",
               "DocumentMoniker": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\CRUD-MVC-EF\\Views\\Inicio\\Editar.cshtml",
               "RelativeDocumentMoniker": "Views\\Inicio\\Editar.cshtml",
@@ -55,8 +107,7 @@
               "RelativeToolTip": "Views\\Inicio\\Editar.cshtml",
               "ViewState": "AQIAACUAAAAAAAAAAAAAwDkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T01:00:59.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T01:00:59.1Z"
             },
             {
               "$type": "Document",
@@ -66,14 +117,14 @@
               "RelativeDocumentMoniker": "Controllers\\InicioController.cs",
               "ToolTip": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\CRUD-MVC-EF\\Controllers\\InicioController.cs",
               "RelativeToolTip": "Controllers\\InicioController.cs",
-              "ViewState": "AQIAAG8AAAAAAAAAAAAAAHIAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-24T00:41:09.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Contacto.cs",
               "DocumentMoniker": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\CRUD-MVC-EF\\Models\\Contacto.cs",
               "RelativeDocumentMoniker": "Models\\Contacto.cs",
@@ -81,8 +132,7 @@
               "RelativeToolTip": "Models\\Contacto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T23:37:00.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T23:37:00.49Z"
             }
           ]
         }

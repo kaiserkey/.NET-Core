@@ -1,0 +1,57 @@
+﻿@model TodoViewModel
+@using Humanizer
+@using System.Globalization;
+
+@{
+    ViewData["Title"] = "My To-Do App";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+    <a asp-action="ViewAll">View All</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Finish</th>
+            <th>@Html.DisplayNameFor(Model => Model.Item.IsDone)</th>
+            <th>@Html.DisplayNameFor(Model => Model.Item.Title)</th>
+            <th>@Html.DisplayNameFor(Model => Model.Item.DueAt)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Items) {
+        <tr>
+            <td>
+                <form asp-action="MarkDone" method="get">
+                    <input type="hidden" asp-for="@item.Id" name="Id" />
+                    <input type="checkbox" id="task-finish" onclick="markCompleted('@item.IsDone')" asp-for="@item.IsDone">
+                </form>
+            </td>
+            <td>
+                @item.IsDone
+            </td>
+            <td>
+                @item.Title
+            </td>
+            <td>
+                @item.DueAt.Humanize(culture: new CultureInfo("es")).Titleize() a las ( @item.DueAt.Value.TimeOfDay horas)
+            </td>
+            <td>
+                <a asp-action="MarkDone" asp-route-id="@item.Id">Mark Done Task</a> |
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    <tr>
+        <td>
+            @await Html.PartialAsync("PartialCreate", new TodoItem())
+        </td>
+    </tr>
+    </tbody>
+</table>
