@@ -17,36 +17,6 @@ builder.Services.AddDbContext<DBContext>(opciones =>
                                                          )
                                                      );
 
-//jwt configuration 
-var key = Encoding.ASCII.GetBytes(builder.Configuration["JWT:Key"]);
-
-//add services configuration
-builder.Services.AddAuthentication(
-    options =>
-    {
-        options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-        options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-    }
-    ).AddJwtBearer(options =>
-    {
-        options.RequireHttpsMetadata = false;
-        options.SaveToken = true;
-        options.TokenValidationParameters = new TokenValidationParameters
-        {
-            ValidateIssuer = true,
-            ValidateAudience = true,
-            ValidateLifetime = true,
-            ValidateIssuerSigningKey = true,
-            ValidIssuer = builder.Configuration["JWT:Issuer"],
-            ValidAudience = builder.Configuration["JWT:Audience"],
-            IssuerSigningKey = new SymmetricSecurityKey(key)
-        };
-    }
-    );
-
-//add service jwt
-builder.Services.AddAuthorization();
-
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
@@ -68,8 +38,6 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
-app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",

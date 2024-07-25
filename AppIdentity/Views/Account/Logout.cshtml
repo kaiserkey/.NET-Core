@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Logout";
+}
+
+<h2>Logout</h2>
+
+<form asp-action="LogoutConfirmed">
+    <p>Are you sure you want to logout?</p>
+    <button type="submit" class="btn btn-primary">Logout</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

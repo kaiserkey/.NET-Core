@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\AspNetCoreTodo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F092C70C-E821-4951-A949-0684277BF9F7}|AspNetCoreTodo.csproj|c:\\users\\daniel.gonzalez\\codigo\\.net core\\aspnetcoretodo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F092C70C-E821-4951-A949-0684277BF9F7}|AspNetCoreTodo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F092C70C-E821-4951-A949-0684277BF9F7}|AspNetCoreTodo.csproj|c:\\users\\daniel.gonzalez\\codigo\\.net core\\aspnetcoretodo\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F092C70C-E821-4951-A949-0684277BF9F7}|AspNetCoreTodo.csproj|solutionrelative:context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F092C70C-E821-4951-A949-0684277BF9F7}|AspNetCoreTodo.csproj|c:\\users\\daniel.gonzalez\\codigo\\.net core\\aspnetcoretodo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F092C70C-E821-4951-A949-0684277BF9F7}|AspNetCoreTodo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F092C70C-E821-4951-A949-0684277BF9F7}|AspNetCoreTodo.csproj|c:\\users\\daniel.gonzalez\\codigo\\.net core\\aspnetcoretodo\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F092C70C-E821-4951-A949-0684277BF9F7}|AspNetCoreTodo.csproj|solutionrelative:views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F092C70C-E821-4951-A949-0684277BF9F7}|AspNetCoreTodo.csproj|c:\\users\\daniel.gonzalez\\codigo\\.net core\\aspnetcoretodo\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{F092C70C-E821-4951-A949-0684277BF9F7}|AspNetCoreTodo.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F092C70C-E821-4951-A949-0684277BF9F7}|AspNetCoreTodo.csproj|c:\\users\\daniel.gonzalez\\codigo\\.net core\\aspnetcoretodo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F092C70C-E821-4951-A949-0684277BF9F7}|AspNetCoreTodo.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F092C70C-E821-4951-A949-0684277BF9F7}|AspNetCoreTodo.csproj|c:\\users\\daniel.gonzalez\\codigo\\.net core\\aspnetcoretodo\\models\\todoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F092C70C-E821-4951-A949-0684277BF9F7}|AspNetCoreTodo.csproj|solutionrelative:models\\todoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F092C70C-E821-4951-A949-0684277BF9F7}|AspNetCoreTodo.csproj|c:\\users\\daniel.gonzalez\\codigo\\.net core\\aspnetcoretodo\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F092C70C-E821-4951-A949-0684277BF9F7}|AspNetCoreTodo.csproj|solutionrelative:controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F092C70C-E821-4951-A949-0684277BF9F7}|AspNetCoreTodo.csproj|c:\\users\\daniel.gonzalez\\codigo\\.net core\\aspnetcoretodo\\views\\todo\\partialcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F092C70C-E821-4951-A949-0684277BF9F7}|AspNetCoreTodo.csproj|solutionrelative:views\\todo\\partialcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F092C70C-E821-4951-A949-0684277BF9F7}|AspNetCoreTodo.csproj|c:\\users\\daniel.gonzalez\\codigo\\.net core\\aspnetcoretodo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F092C70C-E821-4951-A949-0684277BF9F7}|AspNetCoreTodo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,14 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\AspNetCoreTodo\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\AspNetCoreTodo\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACwAAAAGAAAA",
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\AspNetCoreTodo\\Context\\DBContext.cs",
+              "RelativeDocumentMoniker": "Context\\DBContext.cs",
+              "ToolTip": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\AspNetCoreTodo\\Context\\DBContext.cs",
+              "RelativeToolTip": "Context\\DBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T14:40:46.453Z",
+              "WhenOpened": "2024-07-25T17:29:14.57Z",
               "EditorCaption": ""
             },
             {
@@ -73,88 +53,22 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\AspNetCoreTodo\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-18T14:38:45.207Z",
+              "WhenOpened": "2024-07-22T19:39:13.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\AspNetCoreTodo\\Views\\Todo\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Todo\\Index.cshtml",
-              "ToolTip": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\AspNetCoreTodo\\Views\\Todo\\Index.cshtml",
-              "RelativeToolTip": "Views\\Todo\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-15T19:27:14.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PartialCreate.cshtml",
-              "DocumentMoniker": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\AspNetCoreTodo\\Views\\Todo\\PartialCreate.cshtml",
-              "RelativeDocumentMoniker": "Views\\Todo\\PartialCreate.cshtml",
-              "ToolTip": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\AspNetCoreTodo\\Views\\Todo\\PartialCreate.cshtml",
-              "RelativeToolTip": "Views\\Todo\\PartialCreate.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-15T18:33:02.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TodoController.cs",
-              "DocumentMoniker": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\AspNetCoreTodo\\Controllers\\TodoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TodoController.cs",
-              "ToolTip": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\AspNetCoreTodo\\Controllers\\TodoController.cs",
-              "RelativeToolTip": "Controllers\\TodoController.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAAADcAAAARAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\AspNetCoreTodo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\AspNetCoreTodo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T15:06:15.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\AspNetCoreTodo\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\AspNetCoreTodo\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "wwwroot\\js\\site.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-15T19:44:10.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\AspNetCoreTodo\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\AspNetCoreTodo\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwB0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T18:42:16.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TodoViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\AspNetCoreTodo\\Models\\TodoViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\TodoViewModel.cs",
-              "ToolTip": "C:\\Users\\daniel.gonzalez\\Codigo\\.NET Core\\AspNetCoreTodo\\Models\\TodoViewModel.cs",
-              "RelativeToolTip": "Models\\TodoViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T15:45:50.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T14:40:46.453Z"
             }
           ]
         }
